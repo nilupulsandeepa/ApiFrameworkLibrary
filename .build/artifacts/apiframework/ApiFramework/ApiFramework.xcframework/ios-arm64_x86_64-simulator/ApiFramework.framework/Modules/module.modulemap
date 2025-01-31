@@ -1,0 +1,5 @@
+framework module "ApiFramework" {
+    umbrella header "ApiFramework.h"
+    export *
+    module * { export * }
+}

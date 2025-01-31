@@ -1,0 +1,26 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "apiframework",
+          "kind" : "root",
+          "location" : "/Users/nilupulsandeepa/Documents/iLabs/KMP/ApiFramework",
+          "name" : "ApiFramework"
+        },
+        "path" : "/Users/nilupulsandeepa/Documents/iLabs/KMP/ApiFramework/.build/artifacts/apiframework/ApiFramework/ApiFramework.xcframework",
+        "source" : {
+          "checksum" : "93c9cc3aa755bfe5025001102bcce9dfeed1c0bdf05219ef9447d50a13787973",
+          "type" : "remote",
+          "url" : "https://github.com/nilupulsandeepa/ApiFrameworkLibrary/releases/download/v1/ApiFramework.xcframework.zip"
+        },
+        "targetName" : "ApiFramework"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 6
+}
